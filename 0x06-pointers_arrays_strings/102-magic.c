@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
- *
  * make magic happen
  * Return: 0
  */
